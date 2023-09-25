@@ -11,4 +11,5 @@
 
 <h2 align="center">How to use this weather forecast app?</h2>
 <p align="justify"> This project was created using the Streamlit library, to run it you have to type in the terminal of your IDE or Code editor <b>"streamlit run main.py"</b> once up and running
-  you'll see an input box to write a city, then a slider to choose how many days in the future you want to check and finally a select box to choose what data to visualize, either temperature or a graphical representation of sky conditions. </p>.
+  you'll see an input box to write a city, then a slider to choose how many days in the future you want to check and finally a select box to choose what data to visualize, either temperature or a graphical representation of sky conditions every 3 hours.
+The data displayed is obtained from the https://openweathermap.org/api, the key for the API has been included withouth any use of .env since it's an open and free API. </p>.
